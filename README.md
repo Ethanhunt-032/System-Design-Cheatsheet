@@ -61,4 +61,4 @@ Community contributions both for issues and PRs are welcome.
 Thanks. :) Feel free to leave a star on the repo, or if you can afford it, <a href="https://buymeacoffee.com/tejadayana" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>.
 
 Feel free to connect to stay updated. 
-- LinkedIn : [![Linkedin: TejaDayana](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/teja-dayana-a015a921a/)
+- LinkedIn : [![Linkedin: TejaDayana](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teja-dayana-a015a921a/)](https://www.linkedin.com/in/teja-dayana-a015a921a/)
